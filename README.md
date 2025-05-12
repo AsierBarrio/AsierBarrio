@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Asier Barrio
-- 🌱 I’m currently studying computer engineering
+# 👋 Hi, I’m Asier Barrio
 
+- 🌱 I’m currently studying computer engineering
 
 <!---
 AsierBarrio/AsierBarrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

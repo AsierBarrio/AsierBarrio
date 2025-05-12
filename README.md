@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsierBarrio
+- 👋 Hi, I’m Asier Barrio
 - 🌱 I’m currently studying computer engineering
 
 

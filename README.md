@@ -9,7 +9,15 @@
 - ⚡ Fun fact: ...
 --->
 
+# Personal Stats
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AsierBarrio)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsierBarrio&theme=github-dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=520)](https://git.io/streak-stats)
+
+
 # Interesting Repositories
+[![MageAcademy](https://github-readme-stats.vercel.app/api/pin/?username=AsierBarrio&repo=MageAcademy)](https://github.com/AsierBarrio/MageAcademy)
+
 
 # Contact
 <p align="left">
@@ -27,9 +35,6 @@
     </a>
 </p>    
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AsierBarrio)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsierBarrio&theme=github-dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=520)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=AsierBarrio&repo=MageAcademy)](https://github.com/AsierBarrio/MageAcademy)
 
 

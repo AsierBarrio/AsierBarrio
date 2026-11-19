@@ -27,34 +27,20 @@
 </details>
 
 # Contact  
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://x.com/barrio_asier">
-        <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/twitter/twitter.svg"
-             width="48" height="48" alt="Twitter">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/_asier_barrio_">
-        <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/instagram/instagram.svg"
-             width="48" height="48" alt="Gmail">
-      </a>
-    </td>
-    <td>
-      <a href=""https://www.linkedin.com/in/asier-barrio-borge-3b5b0a30b"">
-        <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin.svg"
-             width="48" height="48" alt="LinkedIn">
-      </a>
-    </td>
-    <td>
-      <a href="mailto:asierbarrioborge10@gmail.com">
-        <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/gmail/gmail.svg"
-             width="48" height="48" alt="Gmail">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  <a href="https://twitter.com/barrio_asier" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/asier-barrio-borge-3b5b0a30b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_asier_barrio" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:asierbarrioborge10@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/gmail/gmail.svg"
+       alt="Gmail" height="30" width="40">
+  </a>
+</p>
 
 

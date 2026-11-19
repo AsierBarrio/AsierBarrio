@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Asier Barrio
 
+<img width="500" height="400" alt="Digital_rain_animation_small_letters_clear" src="https://github.com/user-attachments/assets/ae852833-aa97-4328-ab48-1d9f2a39c5ce"/>
+
 - 🌱 I’m currently studying computer engineering
 - ⬜🟥🟩🟧🟦🟨 I like Rubik cubes
 

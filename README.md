@@ -26,22 +26,35 @@
 
 </details>
 
-# Contact
-<p align="left">
-    <a href="https://x.com/barrio_asier" target="_blank">
+# Contact  
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://x.com/barrio_asier">
         <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/twitter/twitter.svg"
-             alt="Twitter" width="32" height="32" />
-    </a>
-    <a href="https://www.instagram.com/_asier_barrio_/" target="_blank">
+             width="48" height="48" alt="Twitter">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/_asier_barrio_">
         <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/instagram/instagram.svg"
-             alt="Instagram" width="32" height="32" />
-    </a>
-    <a href="https://www.linkedin.com/in/asier-barrio-borge-3b5b0a30b" target="_blank">
+             width="48" height="48" alt="Gmail">
+      </a>
+    </td>
+    <td>
+      <a href=""https://www.linkedin.com/in/asier-barrio-borge-3b5b0a30b"">
         <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/social%20media/linkedin/linkedin.svg"
-             alt="LinkedIn" width="32" height="32" />
-    </a>
-</p>    
-
+             width="48" height="48" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:asierbarrioborge10@gmail.com">
+        <img src="https://raw.githubusercontent.com/dheereshag/coloured-icons/master/public/logos/technology/gmail/gmail.svg"
+             width="48" height="48" alt="Gmail">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
